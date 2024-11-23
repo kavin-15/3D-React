@@ -3,8 +3,8 @@ import React from 'react'
 
 function MacContainer() {
     let model = useGLTF("./mac.glb");
-  return (
-    <primitive object={model.scene}/>
+  return(     
+        <primitive object={model.scene}/>
   )
 }
 
