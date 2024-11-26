@@ -6,7 +6,7 @@ import MacContainer from './MacContainer'
 
 function App() {
   return (
-    <Canvas camera={{fov: 50, positon:[0, -80, 120]}}>
+    <Canvas camera={{fov: 12, position:[0, -2, 120]}}>
       <OrbitControls/>
       <Environment files={['https://dl.polyhaven.org/file/ph-assets/HDRIs/exr/4k/studio_small_09_4k.exr']}/>
       <ScrollControls pages={2} damping={6}>
