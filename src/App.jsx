@@ -7,8 +7,8 @@ import MacContainer from './MacContainer'
 function App() {
   return (
     <div className='w-full h-screen relative'>
-      <div className='navbar flex gap-10 py-5 absolute top-10 left-1/2 -translate-x-1/2 z-20'>
-        {["iPhone", "iPad", "Mac", "Accessories", "Contact Us"].map((item, index) => (
+      <div className='navbar line flex gap-40 pt-10 pb-3 absolute top-10 left-1/2 -translate-x-1/2 z-20'>
+        {["iPhone", "iPad", "Mac", "Airpods", "Accessories", "Support"].map((item, index) => (
           <a
             href="#"
             key={index}
