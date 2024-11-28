@@ -24,14 +24,16 @@ This repository showcases a fully interactive 3D web application created with Re
   @react-three/drei: Utility library for simplifying 3D development.
   Three.js: Underlying 3D rendering engine.
   CSS: Custom styling for the user interface.
+
+  
 **Getting Started**
-  Clone the repository:
-    git clone https://github.com/kavin-15/3D-React.git
-    cd 3D-React
-  Install dependencies:
-    npm install
-  Start the development server:
-    npm start
+  1. Clone the repository:
+      git clone https://github.com/kavin-15/3D-React.git
+      cd 3D-React
+  2. Install dependencies:
+      npm install
+  3. Start the development server:
+      npm start
 
 Preview
 The application creates an engaging, immersive 3D experience showcasing the MacBook Pro in a modern, responsive web layout. Explore how React and Three.js come together to build high-quality visualizations for the web.
