@@ -39,3 +39,7 @@ Preview
 The application creates an engaging, immersive 3D experience showcasing the MacBook Pro in a modern, responsive web layout. Explore how React and Three.js come together to build high-quality visualizations for the web.
 
 Feel free to explore, modify, or contribute to enhance this project further!
+
+
+https://github.com/user-attachments/assets/9eef1a0e-1ea6-4a4c-9ece-55bc3c5a790f
+
